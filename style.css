@@ -28,7 +28,6 @@ h1, h2, h3 {
 div p {
 	margin: 0;
 	padding: 1em 0;
-	word-break: break-all;
 }
 
 .btn {
